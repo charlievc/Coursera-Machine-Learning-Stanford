@@ -15,4 +15,4 @@ Codes include:
   * create the sigmoid/ logistic regression function
   * create cost function with gradient, and use fminunc 
   * create cost function and gradient with regularization term
-* <ongoing>
+* (ongoing)
