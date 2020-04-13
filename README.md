@@ -11,4 +11,8 @@ Codes include:
   * create a gradient descent function
   * create feature normalization function
   * create normal equations function
-* <ongoing...>
+* Logistic Regression & Regularization
+  * create the sigmoid/ logistic regression function
+  * create cost function with gradient, and use fminunc 
+  * create cost function and gradient with regularization term
+* <ongoing>
