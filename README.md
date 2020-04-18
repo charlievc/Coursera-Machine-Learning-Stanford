@@ -15,4 +15,8 @@ Codes include:
   * create the sigmoid/ logistic regression function
   * create cost function with gradient, and use fminunc 
   * create cost function and gradient with regularization term
+* Multi-class Classification and Neural Networks
+  * create multi-class regularized logistic regression function
+  * one-vs-all training and prediction
+  * create multi-class neural network prediction function
 * (ongoing)
