@@ -19,4 +19,8 @@ Codes include:
   * create multi-class regularized logistic regression function
   * one-vs-all training and prediction
   * create multi-class neural network prediction function
+* Neural Network Learning
+  * Feedforward and Regularized Cost function
+  * Sigmoid gradient
+  * Backpropagation and regularized gradient
 * (ongoing)
