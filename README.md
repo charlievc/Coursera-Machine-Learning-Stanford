@@ -23,4 +23,10 @@ Codes include:
   * Feedforward and Regularized Cost function
   * Sigmoid gradient
   * Backpropagation and regularized gradient
+* Regularized Linear Regression and Bias/Variance
+  * Regularized Linear Regression Cost Function
+  * Regularized Linear Regression Gradient
+  * Learning Curve
+  * Polynomial Feature Mapping
+  * Validation Curve
 * (ongoing)
