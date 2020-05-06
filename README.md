@@ -29,4 +29,8 @@ Codes include:
   * Learning Curve
   * Polynomial Feature Mapping
   * Validation Curve
+* Support Vector Machines
+  * Gaussian Kernel
+  * Email preprocessing 
+  * Email feature extraction
 * (ongoing)
