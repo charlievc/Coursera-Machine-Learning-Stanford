@@ -33,4 +33,11 @@ Codes include:
   * Gaussian Kernel
   * Email preprocessing 
   * Email feature extraction
+* K-means Clustering and Principal Component Analysis
+  * K-means: Cluster assignment step
+  * K-means: Compute Centroid Means
+  * PCA: Compute Covariance matrix and Eigenvectors
+  * PCA: Project the data
+  * PCA: Recover the data
 * (ongoing)
+
