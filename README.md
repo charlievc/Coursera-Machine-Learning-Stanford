@@ -12,10 +12,10 @@ Codes include:
   * create feature normalization function
   * create normal equations function
 * Logistic Regression & Regularization 
-  ** Classifier that estimates an applicant's probability of admission base on grades)
+  * **Classifier that estimates an applicant's probability of admission base on grades
   * create the sigmoid/ logistic regression function
   * create cost function with gradient, and use fminunc 
-  ** Predict whether microchips from a fabrication plant passes QA)
+  * **Predict whether microchips from a fabrication plant passes QA)
   * create cost function and gradient with regularization term
 * Multi-class Classification and Neural Networks
   * create multi-class regularized logistic regression function
