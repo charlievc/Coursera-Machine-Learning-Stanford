@@ -11,9 +11,11 @@ Codes include:
   * create a gradient descent function
   * create feature normalization function
   * create normal equations function
-* Logistic Regression & Regularization
+* Logistic Regression & Regularization 
+  1.Classifier that estimates an applicant's probability of admission base on grades)
   * create the sigmoid/ logistic regression function
   * create cost function with gradient, and use fminunc 
+  2.Predict whether microchips from a fabrication plant passes QA)
   * create cost function and gradient with regularization term
 * Multi-class Classification and Neural Networks
   * create multi-class regularized logistic regression function
